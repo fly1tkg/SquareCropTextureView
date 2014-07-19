@@ -1,4 +1,4 @@
-package com.fly1tkg.squaresurfaceview;
+package com.fly1tkg.squarecrop;
 
 import android.app.Activity;
 import android.content.res.AssetFileDescriptor;
@@ -22,7 +22,6 @@ public class MainActivity extends Activity implements TextureView.SurfaceTexture
     private float mPreviousX;
     private float mPreviousY;
     private Matrix mMatrix;
-    private boolean mMatrixChanged;
     private int mTextureX;
     private int mTextureY;
 

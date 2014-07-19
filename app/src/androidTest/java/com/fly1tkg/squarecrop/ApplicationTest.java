@@ -1,4 +1,4 @@
-package com.fly1tkg.squaresurfaceview;
+package com.fly1tkg.squarecrop;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
